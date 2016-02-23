@@ -1,5 +1,5 @@
 package Classes;
-
+// hop
 public class Categorie {
 	private Integer idcategorie;
 	private String libellecategorie;
